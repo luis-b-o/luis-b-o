@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luis Oliveira</h1>
 <h3 align="center">A passionate software engineer from Brazil</h3>
 
-- 🌱 I’m currently learning **React.js, Next.js**
+- 🌱 I’m learning everyday
 
 - 💬 Ask me about **Node.js, Typescript, SOLID, DDD**
 
