@@ -1,5 +1,17 @@
 <h1 align="center">Hi 👋</h1>
 <!--START_SECTION:waka-->
+
+```txt
+From: 03 July 2023 - To: 07 July 2023
+
+Total Time: 19 hrs 24 mins
+
+TypeScript   18 hrs 10 mins  >>>>>>>>>>>>>>>>>>>>>>>--   93.63 %
+JavaScript   39 mins         >------------------------   03.37 %
+JSON         21 mins         -------------------------   01.83 %
+Bash         13 mins         -------------------------   01.18 %
+```
+
 <!--END_SECTION:waka-->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
