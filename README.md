@@ -1,24 +1,5 @@
 <h1 align="center">Hi 👋</h1>
-<!--START_SECTION:waka-->
 
-```txt
-From: 03 July 2023 - To: 15 November 2023
-
-Total Time: 316 hrs 43 mins
-
-TypeScript       227 hrs 52 mins >>>>>>>>>>>>>>>>>>-------   71.95 %
-JavaScript       36 hrs 47 mins  >>>----------------------   11.62 %
-Terraform        15 hrs 15 mins  >------------------------   04.82 %
-JSON             14 hrs 24 mins  >------------------------   04.55 %
-Bash             10 hrs 35 mins  >------------------------   03.34 %
-Other            2 hrs 56 mins   -------------------------   00.93 %
-TSConfig         2 hrs 20 mins   -------------------------   00.74 %
-YAML             2 hrs 7 mins    -------------------------   00.67 %
-Docker           59 mins         -------------------------   00.31 %
-Markdown         49 mins         -------------------------   00.26 %
-```
-
-<!--END_SECTION:waka-->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/luiseduardobo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luiseduardobo" height="30" width="40" /></a>
